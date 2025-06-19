@@ -8,6 +8,12 @@ A sentiment analysis of BoE speeches
 - About the Project
 - Objective
 - Project Highlights
+- Methodology
+- Key Findings
+- Recommendations
+- Repository Structure
+- Team
+- References
 
 ---
 
