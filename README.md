@@ -110,15 +110,6 @@ README.md # Project overview and documentation
 requirements.txt # (Optional) Python dependencies if applicable
 
 ---
-## Team
-
-- Suleiman Chun Lum Andy Ho  
-- Jurgita Cepure  
-- Michael Sunner  
-- Nanik Nanwani  
-- Ng Wen Wen Annora
-
----
 
 ## References
 
